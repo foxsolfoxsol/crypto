@@ -3,5 +3,5 @@
   "symbol": "FOX",
   "description": "Token created by @ElProfessor, to take over the Solana blockchain.",
   "image": "https://raw.githubusercontent.com/foxsolfoxsol/crypto/main/FOX.png",
-  "sellerFeeBasisPoints": 500
+  "sellerFeeBasisPoints": "500"
 }
